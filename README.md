@@ -4,6 +4,7 @@
 <p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mkelvo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mkelvo" /> </p>
+![Dr-Mkelvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-mkelvo&count_private=true&show_icons=true&theme=radical)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-mkelvo" alt="dr-mkelvo" /></a> </p>
 
