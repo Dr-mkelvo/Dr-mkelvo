@@ -12,7 +12,7 @@
 
 ![Dr-Mkelvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-mkelvo&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-mkelvo&layout=compact)](https://github.com/dr-mkelvo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-mkelvo&layout=compact&&theme=radical)](https://github.com/dr-mkelvo/github-readme-stats)
 
 
 
