@@ -11,12 +11,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mkelvo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mkelvo" /> </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr-mkelvo&repo=github-readme-stats)](https://github.com/dr-mkelvo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr-mkelvo&repo=github-readme-stats)](https://github.com/dr-mkelvo/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
-[![Dr-Mkelvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-mkelvo&count_private=true&show_icons=true&theme=radical)
+![Dr-Mkelvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-mkelvo&count_private=true&show_icons=true&theme=radical)
 
 
 
