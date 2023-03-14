@@ -4,23 +4,27 @@
 <p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
 
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mkelvo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mkelvo" /> </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr-mkelvo&repo=github-readme-stats)](https://github.com/dr-mkelvo/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr-mkelvo&repo=github-readme-stats)](https://github.com/dr-mkelvo/github-readme-stats)
 
 
-
-
 ![Dr-Mkelvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-mkelvo&count_private=true&show_icons=true&theme=radical)
 
 
 
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=dr-mkelvo&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dr-mkelvo&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dr-mkelvo&show_icons=true" />
+</picture>
 
 
 
