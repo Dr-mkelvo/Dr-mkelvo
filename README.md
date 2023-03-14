@@ -7,7 +7,7 @@
 [![Dr-Mkelvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-mkelvo&count_private=true&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr-mkelvo&repo=github-readme-stats)](https://github.com/dr-mkelvo/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/dr-mkelvo/github-readme-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-mkelvo" alt="dr-mkelvo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_Mkelvo" target="blank"><img src="https://img.shields.io/twitter/follow/_Mkelvo?logo=twitter&style=for-the-badge" alt="Dr-Mkelvo" /></a> </p>
