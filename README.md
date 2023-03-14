@@ -17,7 +17,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/dr-mkelvo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-mkelvo&theme=dark" alt="dr-mkelvo" /></a> </p>
+<p align="left"> <a href="https://github.com/dr-mkelvo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-mkelvo&theme=merko" alt="dr-mkelvo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_Mkelvo" target="blank"><img src="https://img.shields.io/twitter/follow/_Mkelvo?logo=twitter&style=for-the-badge" alt="Dr-Mkelvo" /></a> </p>
 
